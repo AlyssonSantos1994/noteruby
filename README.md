@@ -1,9 +1,8 @@
-# README
+# App inicial em Rails  
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Um projeto para faculdade de analise de sistemas com objetivo de melhorar.
 
-Things you may want to cover:
+framework config para inicio do projeto
 
 * Ruby version
 
